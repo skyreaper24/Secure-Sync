@@ -1,0 +1,6 @@
+{
+  "name": "SecureSync Hub",
+  "description": "Secure, highly accessible real-time sync hub with offline support, roles, and performance optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
